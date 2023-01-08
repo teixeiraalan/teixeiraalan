@@ -1,5 +1,6 @@
 # Olá, eu sou o Alan!
 
+<h3>Atualmente faço alguns projetos em HTML  e CSS, estou aprendendo JavaScript!</h3>
 <div align="center">
   <a href="https://github.com/alanteixeira29">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanteixeira29&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
