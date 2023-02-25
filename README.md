@@ -14,7 +14,7 @@
 
 <p align= "center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes/README.md">
-            <img width='48%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Matheus Pimentel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanteixeira29&theme=dark&hide_border=false&stroke=0000"/>
+            <img width='48%' title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alan Teixeira's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alanteixeira29&theme=dark&hide_border=false&stroke=0000"/>
         </a>
  </p>
   
