@@ -10,7 +10,7 @@
  ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanteixeira29&theme=dark&layout=compact&langs_count=7&")
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alanteixeira29&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Alanteixeira29&theme=dark)](https://git.io/streak-stats) 
   
   
   <div style="display: inline-block;"><br>
